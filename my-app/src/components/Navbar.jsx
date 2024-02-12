@@ -30,7 +30,7 @@ export const Navbar = () => {
         }
     }, [searchvalue])
 
-// console.log("shaloow")
+
     useEffect(() => {
         if (isAuth) {
             axios.get(`https://shopkart-payload.onrender.com/userdata/${isAuth}`)
