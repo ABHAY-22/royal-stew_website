@@ -125,10 +125,10 @@ Display confirmation message.
 
 ## Contributors  😇:
 
-- 👤 [Animesh Singh](https://www.github.com/Animesh-2)
-- 👤 [Abhay Khare](https://github.com/ABHAY-22)
-- 👤 [Divyam Rauthan](https://github.com/DivYam062)
-- 👤 [Zaheen Khan](https://github.com/Zaheen04)
+- 👤 [Madhukar Kumar]
+- 👤 [Abhay Khare]
+- 👤 [Jatin]
+- 👤 [Jagriti]
 
 
 # Conclusion:
