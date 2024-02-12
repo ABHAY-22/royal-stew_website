@@ -13,5 +13,13 @@ function App() {
     </div>
   );
 }
-
+// function App() {
+//   return (
+//     <div>
+//       <Navbar />
+//       <AllRoutes />
+//       <Footer />
+//     </div>
+//   );
+// }
 export default App;
