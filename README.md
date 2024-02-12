@@ -21,8 +21,6 @@ HTML, CSS, JavaScript
 
 React.js 
 
-Chakra UI 
-
 Responsive design for mobile and desktop views
 
 
@@ -55,29 +53,22 @@ Display confirmation message.
 
 -Mobile, tablet, and desktop views.
 
-9. Search Functionality:
-
--Implement search bar with live suggestions.
-
-10. User Reviews and Ratings:
-- Allow users to leave reviews and ratings.
-
-11. Admin Panel:
+9. Admin Panel:
 - Admin login and basic analytics.
 - Product management interface.
 
-12. Footer:
+10. Footer:
 - Links to privacy policy, terms, and customer support.
 
-13. Loading and Error Handling:
+11. Loading and Error Handling:
 - Implement loading spinners.
 - Show appropriate error messages.
 
-14. Security Measures:
+12. Security Measures:
 - Use HTTPS for secure communication.
 - Implement data validation and sanitization.
 
-15. Additional Features:
+13. Additional Features:
 - Social media sharing buttons.
 - Wishlist functionality.
 
