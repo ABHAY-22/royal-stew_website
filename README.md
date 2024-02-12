@@ -10,7 +10,7 @@ The main objective of our project was to make practical use of all the coding sk
 
 ## Deployed Link:
 
-https://e-commercebenevolent-boot.vercel.app/
+https://royal-stew-website-bnms.vercel.app/
 
 ## Group-Project:
 This is a collaborative project built by a team of four members in a span of six days.
