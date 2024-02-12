@@ -161,7 +161,7 @@ export const Cart = () => {
           Total: ${calculateTotalPrice()?.toFixed(2)}
         </Text>
       </Box>
-      <Button
+      {/* <Button
         colorScheme="blue"
         mt={4}
         size="lg"
@@ -169,7 +169,7 @@ export const Cart = () => {
         onClick={handlePaymentrzp}
       >
         Proceed to Payment
-      </Button>
+      </Button> */}
     </Container>
   );
 };
