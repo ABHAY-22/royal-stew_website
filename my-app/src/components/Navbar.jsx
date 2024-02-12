@@ -50,6 +50,12 @@ export const Navbar = () => {
         setsearchdata([])
     }
 
+    // const erase = () => {
+    //     setsearchvalue("")
+    //     setsearchdata([])
+    // }
+
+
     return (
         <Box>
             <Flex id="topbar">
