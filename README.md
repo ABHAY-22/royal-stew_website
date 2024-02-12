@@ -1,6 +1,6 @@
 ## Shopcart:
 
-Shopcart is a full-fledged e-commerce website designed to provide users with a seamless and intuitive online shopping experience. The website encompasses a wide range of products across various categories, ensuring that users can find and purchase items of their choice. The platform prioritizes user-friendly navigation, a visually appealing interface, and secure payment options to enhance customer satisfaction.
+Shopcart is an expansive e-commerce platform meticulously crafted to offer users an effortless and engaging online shopping journey. Our website boasts an extensive array of products spanning diverse categories, ensuring shoppers can easily discover and acquire their desired items. We prioritize intuitive navigation, a visually captivating interface, and robust security measures for payment transactions, all aimed at elevating customer satisfaction to new heights
 
 ![image](https://github.com/DivYam062/eCommercebenevolent-boot/assets/51116785/2d15a883-8b34-4c95-947b-36c236b204de)
 
@@ -20,8 +20,6 @@ This is a collaborative project built by a team of four members in a span of six
 HTML, CSS, JavaScript
 
 React.js 
-
-Chakra UI 
 
 Responsive design for mobile and desktop views
 
@@ -55,29 +53,22 @@ Display confirmation message.
 
 -Mobile, tablet, and desktop views.
 
-9. Search Functionality:
-
--Implement search bar with live suggestions.
-
-10. User Reviews and Ratings:
-- Allow users to leave reviews and ratings.
-
-11. Admin Panel:
+9. Admin Panel:
 - Admin login and basic analytics.
 - Product management interface.
 
-12. Footer:
+10. Footer:
 - Links to privacy policy, terms, and customer support.
 
-13. Loading and Error Handling:
+11. Loading and Error Handling:
 - Implement loading spinners.
 - Show appropriate error messages.
 
-14. Security Measures:
+12. Security Measures:
 - Use HTTPS for secure communication.
 - Implement data validation and sanitization.
 
-15. Additional Features:
+13. Additional Features:
 - Social media sharing buttons.
 - Wishlist functionality.
 
@@ -125,10 +116,10 @@ Display confirmation message.
 
 ## Contributors  😇:
 
-- 👤 [Animesh Singh](https://www.github.com/Animesh-2)
-- 👤 [Abhay Khare](https://github.com/ABHAY-22)
-- 👤 [Divyam Rauthan](https://github.com/DivYam062)
-- 👤 [Zaheen Khan](https://github.com/Zaheen04)
+- 👤 [Madhukar Kumar]
+- 👤 [Abhay Khare]
+- 👤 [Jatin]
+- 👤 [Jagriti]
 
 
 # Conclusion:
