@@ -70,9 +70,10 @@
 #acc{
     display: flex;
     width: 10%;
-    gap: 20%;
+    gap: 23%;
     
     justify-content: center;
+    margin-right: 15px;
 }
 
 
